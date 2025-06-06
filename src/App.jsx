@@ -1,10 +1,10 @@
+import { Hero } from "./sections/index.js";
+
 const App = () => {
 	return (
-		<main>
-			<div>
-				<h1 className="text-3xl underline">Hello World</h1>
-			</div>
-		</main>
+		<>
+			<Hero />
+		</>
 	);
 };
 
