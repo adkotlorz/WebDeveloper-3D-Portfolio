@@ -2,7 +2,7 @@ import React from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { words } from "../constants/index.js";
-import { Button, HeroExperience } from "../components/index.js";
+import { AnimatedCounter, Button, HeroExperience } from "../components/index.js";
 
 const Hero = () => {
 	useGSAP(() => {
@@ -67,7 +67,7 @@ const Hero = () => {
 					</div>
 				</figure>
 			</div>
-
+			<AnimatedCounter />
 		</section>
 	);
 };
