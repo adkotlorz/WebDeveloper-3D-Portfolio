@@ -1,4 +1,4 @@
-import { Hero, LogoSection, Showcase } from "./sections/index.js";
+import { FeatureCards, Hero, LogoSection, Showcase } from "./sections/index.js";
 import { Navbar } from "./components/index.js";
 
 const App = () => {
@@ -8,6 +8,7 @@ const App = () => {
 			<Hero />
 			<Showcase />
 			<LogoSection />
+			<FeatureCards />
 		</>
 	);
 };
