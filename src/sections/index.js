@@ -1,3 +1,4 @@
-import Hero from "./Hero.jsx";
+import Hero from "./Hero";
+import Showcase from "./Showcase";
 
-export { Hero }
+export { Hero, Showcase };

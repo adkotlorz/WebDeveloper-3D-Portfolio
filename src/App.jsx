@@ -1,9 +1,10 @@
-import { Hero } from "./sections/index.js";
+import { Hero, Showcase } from "./sections/index.js";
 
 const App = () => {
 	return (
 		<>
 			<Hero />
+			<Showcase />
 		</>
 	);
 };
