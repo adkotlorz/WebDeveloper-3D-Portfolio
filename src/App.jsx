@@ -1,4 +1,4 @@
-import { Hero, Showcase } from "./sections/index.js";
+import { Hero, LogoSection, Showcase } from "./sections/index.js";
 import { Navbar } from "./components/index.js";
 
 const App = () => {
@@ -7,6 +7,7 @@ const App = () => {
 			<Navbar />
 			<Hero />
 			<Showcase />
+			<LogoSection />
 		</>
 	);
 };
