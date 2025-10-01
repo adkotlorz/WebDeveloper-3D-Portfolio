@@ -12,12 +12,12 @@ An interactive and modern 3D developer portfolio – designed to showcase skills
 ---
 
 ## 🔗 Live Preview
-👉 [Click here to see the live demo](PASTE_LIVE_LINK_HERE)
+👉 [Click here to see the live demo](https://threejswebdev.netlify.app/)
 
 ---
 
 ## 📸 Screenshot
-![Project Preview](PASTE_SCREENSHOT_LINK_HERE)
+![Project Preview](https://i.ibb.co/HTd3wHpb/Screenshot-1.png)
 
 ---
 
