@@ -7,5 +7,6 @@ import Navbar from './Navbar';
 import TitleHeader from './TitleHeader';
 import GlowCard from './GlowCard';
 import TechIcon from './models/tech_logos/TechIcon';
+import ContactExperience from './models/contact/ContactExperience';
 
-export { Button, HeroExperience, HeroLights, Particles, AnimatedCounter, Navbar, TitleHeader, GlowCard, TechIcon };
+export { Button, HeroExperience, HeroLights, Particles, AnimatedCounter, Navbar, TitleHeader, GlowCard, TechIcon, ContactExperience };
