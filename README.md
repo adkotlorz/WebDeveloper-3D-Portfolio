@@ -17,7 +17,7 @@ An interactive and modern 3D developer portfolio – designed to showcase skills
 ---
 
 ## 📸 Screenshot
-![Project Preview]<img src="https://i.ibb.co/HTd3wHpb/Screenshot-1.png" alt="Project Preview" width="600">
+<img src="https://i.ibb.co/HTd3wHpb/Screenshot-1.png" alt="Project Preview" width="1300" height="925">
 
 ---
 
