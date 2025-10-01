@@ -6,5 +6,6 @@ import Experience from "./Experience";
 import TechStack from "./TechStack";
 import Testimonials from "./Testimonials";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
-export { Hero, Showcase, LogoSection, FeatureCards, Experience, TechStack, Testimonials, Contact };
+export { Hero, Showcase, LogoSection, FeatureCards, Experience, TechStack, Testimonials, Contact, Footer };

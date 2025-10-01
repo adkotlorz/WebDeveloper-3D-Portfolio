@@ -1,7 +1,7 @@
 import {
 	Contact,
 	Experience,
-	FeatureCards,
+	FeatureCards, Footer,
 	Hero,
 	LogoSection,
 	Showcase,
@@ -22,6 +22,7 @@ const App = () => {
 			<TechStack />
 			<Testimonials />
 			<Contact />
+			<Footer />
 		</>
 	);
 };
