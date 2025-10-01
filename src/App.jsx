@@ -1,4 +1,11 @@
-import { Experience, FeatureCards, Hero, LogoSection, Showcase } from "./sections/index.js";
+import {
+	Experience,
+	FeatureCards,
+	Hero,
+	LogoSection,
+	Showcase,
+	TechStack,
+} from "./sections/index.js";
 import { Navbar } from "./components/index.js";
 
 const App = () => {
@@ -10,6 +17,7 @@ const App = () => {
 			<LogoSection />
 			<FeatureCards />
 			<Experience />
+			<TechStack />
 		</>
 	);
 };
